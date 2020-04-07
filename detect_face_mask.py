@@ -1,3 +1,7 @@
+# Name:       Phan Ben 
+# email:      phanben110@gmail.com
+# links face: https://www.facebook.com/ben.phan.5011
+
 import cv2
 import numpy as np
 #face_cascade = cv2.CascadeClassifier('haarcascade_smile.xml')
